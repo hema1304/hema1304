@@ -5,7 +5,7 @@
 - 💡 **Passionate About:** **Problem-solving, data engineering, and cloud computing**  
 - 🏆 **Certified AWS Cloud Practitioner**  
 - 📊 **Expertise:** Designing and optimizing **ETL pipelines** for extracting, transforming, and loading data from APIs into **AWS RDS, Databricks, and other cloud solutions**.
-- 🎯 **Problem Solver:** Love tackling coding challenges on **LeetCode & Competitive Programming**  
+- 🎯 **Problem Solver:** Love tackling coding challenges
 ---
 
 ## 🚀 Technologies & Tools  
