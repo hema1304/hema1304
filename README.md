@@ -4,7 +4,7 @@
 - 🔭 **Currently Working as:** A **Data Engineer**, building ETL pipelines with **AWS & Azure**  
 - 💡 **Passionate About:** **Problem-solving, data engineering, and cloud computing**  
 - 🏆 **Certified AWS Cloud Practitioner**  
-- 📊 **Expertise:** Collecting, processing, and transforming data from APIs, webhooks  
+- 📊 **Expertise:** Designing and optimizing **ETL pipelines** for extracting, transforming, and loading data from APIs into **AWS RDS, Databricks, and other cloud solutions**.
 - 🎯 **Problem Solver:** Love tackling coding challenges on **LeetCode & Competitive Programming**  
 ---
 
